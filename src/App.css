@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.addScore1,.addScore4,.addScore6{
+  color: green ;
+}
